@@ -1,0 +1,5 @@
+run_id __IAT-R1-_BEH
+instruction_schedule media/instructions/IAT_instruct_schedule_R1_L.csv
+practice True
+select_1 'left'
+select_2 'right'

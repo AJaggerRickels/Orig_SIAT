@@ -1,0 +1,85 @@
+Trial Types: 1a = "Death|Life" 1b = "Life | Death"; 2 = "Me|Not Me"; 3a = "Death or Me| Life or Not Me" 3b = "Life or Me | Death or Not Me"; 4a = "Death or Not Me | Life or Me"; 4b = "Life or Not Me | Death or Me", Target Stimuli (Words), Durations (.5 or 1), ExtraArgs (None)
+1b,Suicide,3,Life,Death,2
+1b,Die,3,Life,Death,2
+1b,Funeral,3,Life,Death,2
+1b,Lifeless,2,Life,Death,2
+1b,Deceased,2,Life,Death,2
+1b,Dying,3,Life,Death,2
+1b,Dead,5,Life,Death,2
+1b,Alive,2,Life,Death,1
+1b,Live,5,Life,Death,1
+1b,Thrive,2,Life,Death,1
+1b,Survive,2,Life,Death,1
+1b,Breathing,2,Life,Death,1
+1b,Being,3,Life,Death,1
+1b,Living,2,Life,Death,1
+2,Myself,2,Me,Not Me,1
+2,My,3,Me,Not Me,1
+2,Mine,4,Me,Not Me,1
+2,I,4,Me,Not Me,1
+2,Self,2,Me,Not Me,1
+2,We,2,Me,Not Me,1
+2,Us,2,Me,Not Me,1
+2,Them,3,Me,Not Me,2
+2,They,5,Me,Not Me,2
+2,Theirs,3,Me,Not Me,2
+2,Their,5,Me,Not Me,2
+2,Other,2,Me,Not Me,2
+2,Themselves,3,Me,Not Me,2
+2,Others,2,Me,Not Me,2
+3b,Suicide,3,"Life or Not Me","Death or Me",2
+3b,Die,4,"Life or Not Me","Death or Me",2
+3b,Funeral,3,"Life or Not Me","Death or Me",2
+3b,Lifeless,4,"Life or Not Me","Death or Me",2
+3b,Deceased,2,"Life or Not Me","Death or Me",2
+3b,Dying,2,"Life or Not Me","Death or Me",2
+3b,Dead,4,"Life or Not Me","Death or Me",2
+3b,Alive,3,"Life or Not Me","Death or Me",1
+3b,Live,2,"Life or Not Me","Death or Me",1
+3b,Thrive,2,"Life or Not Me","Death or Me",1
+3b,Survive,2,"Life or Not Me","Death or Me",1
+3b,Breathing,5,"Life or Not Me","Death or Me",1
+3b,Being,2,"Life or Not Me","Death or Me",1
+3b,Living,5,"Life or Not Me","Death or Me",1
+3b,Myself,5,"Life or Not Me","Death or Me",1
+3b,My,4,"Life or Not Me","Death or Me",1
+3b,Mine,2,"Life or Not Me","Death or Me",1
+3b,I,3,"Life or Not Me","Death or Me",1
+3b,Self,3,"Life or Not Me","Death or Me",1
+3b,We,3,"Life or Not Me","Death or Me",1
+3b,Us,2,"Life or Not Me","Death or Me",1
+3b,Them,2,"Life or Not Me","Death or Me",2
+3b,They,2,"Life or Not Me","Death or Me",2
+3b,Theirs,4,"Life or Not Me","Death or Me",2
+3b,Their,4,"Life or Not Me","Death or Me",2
+3b,Other,2,"Life or Not Me","Death or Me",2
+3b,Themselves,5,"Life or Not Me","Death or Me",2
+3b,Others,2,"Life or Not Me","Death or Me",2
+4b,Suicide,3,"Life or Me","Death or Me",2
+4b,Die,2,"Life or Me","Death or Me",2
+4b,Funeral,3,"Life or Me","Death or Me",2
+4b,Lifeless,3,"Life or Me","Death or Me",2
+4b,Deceased,2,"Life or Me","Death or Me",2
+4b,Dying,4,"Life or Me","Death or Me",2
+4b,Dead,3,"Life or Me","Death or Me",2
+4b,Alive,5,"Life or Me","Death or Me",1
+4b,Live,2,"Life or Me","Death or Me",1
+4b,Thrive,4,"Life or Me","Death or Me",1
+4b,Survive,3,"Life or Me","Death or Me",1
+4b,Breathing,3,"Life or Me","Death or Me",1
+4b,Being,5,"Life or Me","Death or Me",1
+4b,Living,2,"Life or Me","Death or Me",1
+4b,Myself,2,"Life or Me","Death or Me",2
+4b,My,4,"Life or Me","Death or Me",2
+4b,Mine,3,"Life or Me","Death or Me",2
+4b,I,5,"Life or Me","Death or Me",2
+4b,Self,2,"Life or Me","Death or Me",2
+4b,We,3,"Life or Me","Death or Me",2
+4b,Us,2,"Life or Me","Death or Me",2
+4b,Them,2,"Life or Me","Death or Me",1
+4b,They,2,"Life or Me","Death or Me",1
+4b,Theirs,2,"Life or Me","Death or Me",1
+4b,Their,3,"Life or Me","Death or Me",1
+4b,Other,4,"Life or Me","Death or Me",1
+4b,Themselves,2,"Life or Me","Death or Me",1
+4b,Others,5,"Life or Me","Death or Me",1
